@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ODUS\\Desktop\\C#Classes\\DiceGame\\DiceGame.csproj",
+      "projectUniqueName": "C:\\Users\\ODUS\\Desktop\\MGQS\\C#Classes\\DiceGame\\DiceGame.csproj",
       "projectName": "DiceGame",
-      "projectPath": "C:\\Users\\ODUS\\Desktop\\C#Classes\\DiceGame\\DiceGame.csproj",
+      "projectPath": "C:\\Users\\ODUS\\Desktop\\MGQS\\C#Classes\\DiceGame\\DiceGame.csproj",
       "packagesPath": "C:\\Users\\ODUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ODUS\\Desktop\\C#Classes\\DiceGame\\obj\\",
+      "outputPath": "C:\\Users\\ODUS\\Desktop\\MGQS\\C#Classes\\DiceGame\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ODUS\\AppData\\Roaming\\NuGet\\NuGet.Config"
